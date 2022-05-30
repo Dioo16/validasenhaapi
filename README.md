@@ -1,5 +1,5 @@
 <h1 align="center">Documentação da solução</h1>
-    <div style="display: flex;justify-content: center;">
+    <div style="display: flex;justify-content: center;" align="center">
             <img align="center" src="https://img.shields.io/badge/-Java-red" alt="Java">
             <img align="center" src="https://img.shields.io/badge/-SpringBoot-green" alt="SpringBoot">
             <img align="center" src="https://img.shields.io/badge/-Maven-green" alt="Maven">
