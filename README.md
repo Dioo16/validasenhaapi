@@ -1,10 +1,8 @@
 <h1 align="center">Documentação da solução</h1>
     <div style="display: flex;justify-content: center;">
-        <div>
             <img align="center" src="https://img.shields.io/badge/-Java-red" alt="Java">
             <img align="center" src="https://img.shields.io/badge/-SpringBoot-green" alt="SpringBoot">
             <img align="center" src="https://img.shields.io/badge/-Maven-green" alt="Maven">
-        </div>
     </div>
     <h2 align="center" > Gerando projeto e modelagem</h2>
     <h5>O primeiro passo foi criar o projeto atrávés do spring.io com as dependencias necessárias, como demonstra a imagem:</h5>
